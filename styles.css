@@ -27,7 +27,7 @@ h1{
     border: 1px solid black;
     margin-bottom: 2rem;
     padding: 0.5rem 0.5rem;
-    background-color: rgb(236, 203, 203);
+    background-color:white;
 }
 body{
     background-color: var(--primary-color);
@@ -48,6 +48,6 @@ h2{
     color: white;
 }
 #output-box{
-    color: rgb(236, 203, 203);
+    color:white;
     text-align: center;
 }
