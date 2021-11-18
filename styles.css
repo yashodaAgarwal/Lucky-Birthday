@@ -23,7 +23,7 @@ h1{
 .button{
     margin-top: 1rem;
     width: 20%;
-    border-radius: 0.1rem;
+    border-radius: 1rem;
     border: 1px solid black;
     margin-bottom: 2rem;
     padding: 0.5rem 0.5rem;
@@ -40,7 +40,7 @@ label{
 input{
     margin-bottom: 0.5rem;
     width: 30%;
-    border-radius: 0.1rem;
+    border-radius: 1rem;
     padding: 0.5rem 0.5rem;
 }
 
